@@ -10,7 +10,7 @@ description: >
   each reporting cycle.
 category: Reporting & Disclosure
 framework_alignment: GHG Protocol | Science Based Targets initiative (SBTi) | CDP
-audience_level: Intermediate
+Tier: Tier 1 - Support
 claude_interface: Claude.ai (with file upload)
 ---
 
