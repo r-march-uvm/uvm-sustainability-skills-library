@@ -11,7 +11,7 @@ description: >
   Standards Board (SASB), and EU Corporate Sustainability Reporting Directive (CSRD).
 category: Reporting & Disclosure
 framework_alignment: GRI | ISSB (IFRS S1/S2) | TCFD | SASB | CSRD/ESRS
-audience_level: Intermediate
+Tier: Tier 1 - Support
 claude_interface: Claude.ai (with file upload)
 ---
 
