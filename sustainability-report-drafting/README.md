@@ -1,7 +1,7 @@
 # Sustainability Report Drafting — Introduction
 
 **Skill file:** `SustainabilityReport-Drafting-SKILL.md`
-**Tier:** 1 — no coding required, runs directly in Claude.ai with a file upload
+**Tier:** 1 — supporting the work by doing it faster, no coding required, runs directly in Claude.ai with a file upload
 **Who it's for:** Sustainability professionals drafting sections of an annual report, CDP (Carbon Disclosure Project) questionnaire, or climate disclosure for an investor or Environmental, Social and Governance (ESG) analyst audience
 
 ---
