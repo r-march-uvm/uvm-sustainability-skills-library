@@ -1,0 +1,75 @@
+supplier_name_raw,cost_centre_code,cost_centre_label,line_description,annual_spend_usd,po_category,notes
+Archer Daniels Midland Co.,CC-110,Raw Materials,Corn starch — food grade,8420000,INGR,
+ADM,CC-110,Raw Materials,High fructose corn syrup,3180000,INGR,Duplicate supplier — same as above
+Archer-Daniels-Midland,CC-110,Raw Materials,Dextrose monohydrate,1950000,INGR,Duplicate supplier — same as above
+Cargill Incorporated,CC-110,Raw Materials,"Sunflower oil, refined",5640000,INGR,
+Cargill Inc,CC-110,Raw Materials,Canola oil — food service grade,2310000,INGR,Duplicate supplier
+CARGILL,CC-110,Raw Materials,Palm oil (RSPO-certified),1870000,INGR,Duplicate supplier
+Ingredion Inc.,CC-110,Raw Materials,Tapioca starch,3050000,INGR,
+Ingredion,CC-110,Raw Materials,Pea protein isolate,2200000,INGR,Duplicate supplier
+Kerry Group plc,CC-110,Raw Materials,Natural flavours — savory range,4100000,INGR,
+Kerry Ingredients,CC-110,Raw Materials,Yeast extract,1430000,INGR,Duplicate — Kerry Group subsidiary
+Balchem Corporation,CC-110,Raw Materials,Encapsulated vitamins,980000,INGR,
+Treatt USA,CC-110,Raw Materials,Citrus oil extract,410000,INGR,
+Sensient Technologies,CC-110,Raw Materials,Natural colours,760000,INGR,
+IFF (International Flavors & Fragrances),CC-110,Raw Materials,Flavour systems — sweet,1900000,INGR,
+International Flavors and Fragrances Inc.,CC-110,Raw Materials,Masking agents,550000,INGR,Duplicate — same as IFF
+Berry Global Inc.,CC-120,Packaging,Flexible packaging film — multilayer,6800000,PKG,
+Berry Global,CC-120,Packaging,Reclosable zipper pouches,2400000,PKG,Duplicate supplier
+Sealed Air Corporation,CC-120,Packaging,Protective packaging — corrugated,3300000,PKG,
+Sealed Air Corp,CC-120,Packaging,Void fill and cushioning,890000,PKG,Duplicate supplier
+Amcor plc,CC-120,Packaging,High-barrier flexible film,5100000,PKG,
+Amcor Rigid Packaging,CC-120,Packaging,PET (polyethylene terephthalate) containers,1750000,PKG,Separate Amcor subsidiary — do not merge
+Smurfit Kappa Group,CC-120,Packaging,Secondary cardboard cartons,2650000,PKG,
+Graphic Packaging International,CC-120,Packaging,Paperboard cartons,1980000,PKG,
+AptarGroup Inc.,CC-120,Packaging,Dispensing closures and caps,870000,PKG,
+Sonoco Products Company,CC-120,Packaging,Composite canisters,1200000,PKG,
+Printpack Inc.,CC-120,Packaging,Printed flexible films,940000,PKG,
+TreeSweet Co-Manufacturing LLC,CC-130,Contract Mfg,"Co-packing — snack bars, line 3",9500000,COMAN,
+TreeSweet Co-Manufacturing,CC-130,Contract Mfg,Co-packing — granola clusters,4200000,COMAN,Duplicate supplier
+Pacific Coast Packing Inc.,CC-130,Contract Mfg,Toll manufacturing — dry blending,3800000,COMAN,
+Hearthside Food Solutions,CC-130,Contract Mfg,Co-manufacturing — cookies and crackers,7100000,COMAN,
+Hearthside Foods,CC-130,Contract Mfg,Co-packing — seasonal SKUs,2300000,COMAN,Duplicate supplier — same entity
+XPO Logistics Inc.,CC-210,Inbound Freight,Inbound freight — ingredient suppliers,2100000,FRGT-IN,
+XPO Inc.,CC-210,Inbound Freight,Dedicated contract carriage,780000,FRGT-IN,Duplicate — XPO Logistics rebranded
+CH Robinson Worldwide,CC-210,Inbound Freight,Brokered freight — raw materials,1650000,FRGT-IN,
+C.H. Robinson,CC-210,Inbound Freight,Refrigerated inbound freight,490000,FRGT-IN,Duplicate supplier
+Geodis USA,CC-210,Inbound Freight,Ocean freight — imported ingredients,3200000,FRGT-IN,International — Exiobase factor applies
+Kuehne + Nagel,CC-210,Inbound Freight,Air freight — specialty ingredients,620000,FRGT-IN,
+Ryder System Inc.,CC-220,Outbound Freight,Dedicated fleet — DSD (direct-store-delivery),4400000,FRGT-OUT,
+Ryder Transportation,CC-220,Outbound Freight,Managed transportation — DC to retail,1100000,FRGT-OUT,Duplicate supplier
+FedEx Freight,CC-220,Outbound Freight,LTL (less-than-truckload) to distributors,980000,FRGT-OUT,
+UPS Supply Chain Solutions,CC-220,Outbound Freight,Small parcel — e-commerce fulfilment,760000,FRGT-OUT,
+Amazon Freight,CC-220,Outbound Freight,Last-mile delivery — DTC channel,430000,FRGT-OUT,Ambiguous — could be Cat 9 or Cat 1 service
+Clean Harbors Inc.,CC-310,Waste & Env Services,Hazardous waste disposal — plant ops,290000,WASTE,
+Republic Services Inc.,CC-310,Waste & Env Services,Solid waste hauling — facilities,180000,WASTE,
+Stericycle Inc.,CC-310,Waste & Env Services,Regulated waste — lab and quality,95000,WASTE,
+JBT Corporation,CC-410,Capital Equipment,Processing line upgrade — filler unit,1200000,CAPEX,One-time purchase FY2025
+Multivac Inc.,CC-410,Capital Equipment,Form-fill-seal (FFS) packaging machine,890000,CAPEX,
+Rockwell Automation,CC-410,Capital Equipment,PLC (programmable logic controller) systems,430000,CAPEX,
+American Express Global Business Travel,CC-510,T&E,Corporate travel — airfare and hotel,640000,TRAVEL,
+Amex GBT,CC-510,T&E,International travel — trade shows,210000,TRAVEL,Duplicate — same as above
+Marriott International,CC-510,T&E,Hotel — sales team accommodation,180000,TRAVEL,
+United Airlines,CC-510,T&E,Domestic flights — ops team,155000,TRAVEL,
+WageWorks Inc.,CC-520,Employee Benefits,Pre-tax commuter benefit programme,320000,COMMUTE,May be excluded depending on boundary
+Edenred USA,CC-520,Employee Benefits,Transit passes and parking benefits,140000,COMMUTE,
+Constellation Energy,CC-610,Utilities,Natural gas — manufacturing facilities,1900000,ENERGY,Scope 1/2 overlap — confirm boundary
+Duke Energy,CC-610,Utilities,Electricity — NC distribution centre,870000,ENERGY,Likely Scope 2 — confirm before Cat 3 assignment
+Trane Technologies,CC-610,Utilities,"HVAC (heating, ventilation, air conditioning) maintenance contract",220000,ENERGY,
+Deloitte & Touche LLP,CC-710,Professional Services,"ESG (environmental, social, governance) assurance and advisory",580000,PROFSVC,Cat 1 (purchased services) — confirm
+McKinsey & Company,CC-710,Professional Services,Supply chain strategy project,1100000,PROFSVC,
+ERM Group Inc.,CC-710,Professional Services,LCA (life cycle assessment) and sustainability consulting,390000,PROFSVC,
+Anthesis Group,CC-710,Professional Services,Carbon accounting support,260000,PROFSVC,
+Salesforce Inc.,CC-720,IT & Software,CRM (customer relationship management) platform licence,480000,IT,
+SAP SE,CC-720,IT & Software,ERP (enterprise resource planning) maintenance and licences,1350000,IT,
+Microsoft Corporation,CC-720,IT & Software,Microsoft 365 and Azure cloud services,620000,IT,
+AWS (Amazon Web Services),CC-720,IT & Software,Cloud infrastructure,390000,IT,
+Publicis Groupe,CC-810,Marketing,Agency fees — brand and digital,2200000,MKT,
+Publicis Media,CC-810,Marketing,Paid media buying,1800000,MKT,Separate Publicis entity — do not merge with above
+Quad/Graphics Inc.,CC-810,Marketing,Print production — in-store displays,560000,MKT,
+Maintenance Supply Co.,CC-910,Facility Management,"MRO (maintenance, repair and operations) supplies — various",730000,MRO,Ambiguous — could be Cat 1 or Cat 5
+Cintas Corporation,CC-910,Facility Management,"Uniforms, mat service, facility supplies",410000,FACILIT,
+Grainger Inc.,CC-910,Facility Management,Industrial supplies and safety equipment,290000,MRO,
+Vendor ID 4492,CC-999,Unallocated,,185000,UNALLOC,No supplier name on record — flag for AP team
+TBD Supplier,CC-999,Unallocated,Q4 spot buy — ingredients,95000,UNALLOC,"Spot purchase, supplier not yet onboarded"
+Various petty cash vendors,CC-999,Unallocated,Miscellaneous small purchases <$5k each,210000,MISC,Aggregated line — no individual vendor detail
