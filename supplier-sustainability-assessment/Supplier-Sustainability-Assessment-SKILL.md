@@ -26,7 +26,7 @@ claude_interface: Claude.ai (with file upload optional)
 
 **When to use:** When a client is evaluating or onboarding suppliers in any sector and needs to assess sustainability practice maturity — across both environmental and social/human rights/governance dimensions — for sourcing strategy, supplier engagement, or sustainability reporting. This is a sector-general version of the practice-specific supplier assessment skills in the PPWA RegenAg Toolkit — use this one when suppliers sit outside agriculture (manufacturing, apparel, technology, professional services, and so on), or when comparing suppliers across different sectors within the same procurement category.
 
-**Created by:** Rochelle March, PPWA (rochelle@ppwa.io)
+**Created by:** Rochelle March, University of Vermont (March.Rochelle@uvm.edu)
 
 ---
 
@@ -232,4 +232,6 @@ This skill is classified as **Tier 2 — Augment** in the PPWA AI for Sustainabi
 
 ---
 
-*This skill is part of the PPWA Sustainability Skills Library. It generalises the RegenAg Supplier Assessment Skill for use across any sector.*
+*This skill is part of the University of Vermont Sustainable Innovation MBA - Sustainability Skills Library.*
+
+*University of Vermont (March.Rochelle@uvm.edu)*
