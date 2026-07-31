@@ -16,7 +16,7 @@ description: >
   Governance, Risk, and Compliance (GRC) tool import.
 category: Regulatory Compliance
 framework_alignment: CSRD / ESRS | ISSB (IFRS S1/S2) | California SB 253/261 | TNFD | SEC Climate Rules (preparatory) | GRI | TCFD | SASB
-audience_level: Power-user (Tier 2)
+tier: Tier 2 - Augment
 claude_interface: Claude.ai (with file upload) + optional spreadsheet integration
 ---
 
