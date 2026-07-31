@@ -26,7 +26,7 @@ claude_interface: Claude.ai (with file upload) + optional spreadsheet integratio
 
 **When to use:** When an ESG or legal team needs a systematic, defensible audit of where current disclosures comply with, partially comply with, or are silent against each new regulatory framework — before an external consultant runs the same exercise at ten times the cost. Particularly suited to companies navigating two or more of the major frameworks simultaneously, or preparing for a first-time CSRD or ISSB filing.
 
-**Created by:** Rochelle March, PPWA (rochelle@ppwa.io)
+**Created by:** Rochelle March, University of Vermont (March.Rochelle@uvm.edu)
 
 ---
 
@@ -384,6 +384,6 @@ This skill is classified as **Tier 2 — Augment** in the PPWA AI for Sustainabi
 
 ---
 
-*This skill is part of the PPWA AI × Sustainability Skills series. Related skills: Sustainability Report Drafting (Section 3.2) · Scope 3 Supplier Classification (Section 3.1) · [forthcoming: Double Materiality Assessment Facilitator · Transition Plan Builder]*
+*This skill is part of the University of Vermont Sustainable Innovation MBA - Sustainability Skills Library.*
 
-*PPWA (rochelle@ppwa.io) | UVM Thought Leadership Paper, Section 3.3*
+*University of Vermont (March.Rochelle@uvm.edu)*
